@@ -1,4 +1,4 @@
-# CSCI 4701: Convolutional Neural Networks using PyTorch
+# Convolutional Neural Networks using PyTorch
 
 ## Notebook Summary
 This notebook demonstrates a basic Convolutional Neural Network (CNN) implementation using PyTorch. It includes the following steps:
