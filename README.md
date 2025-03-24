@@ -1,11 +1,19 @@
-# CSCI 4701: PyTorch Code from Kernel to Convolutional Neural Networks
+# CSCI 4701: Convolutional Neural Networks using PyTorch
+
+## Notebook Summary
+This notebook demonstrates a basic Convolutional Neural Network (CNN) implementation using PyTorch. It includes the following steps:
+- Trains the CNN model.
+- Loads and preprocesses image data.
+- Sets up the optimizer and loss function.
+- Evaluates the model performance.
+- Defines a Convolutional Neural Network (CNN) architecture.
 
 ## Requirements
 The following Python libraries are used in this project:
 - matplotlib  
 - skimage  
 - torch  
-- torchvision  
+- torchvision
 
 ## How to Run
 1. Install the required libraries using `pip install -r requirements.txt` (or install them manually).
